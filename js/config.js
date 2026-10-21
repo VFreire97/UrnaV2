@@ -1,4 +1,4 @@
 const APP_CONFIG = {
-  SUPABASE_URL: "COLE_AQUI_SUA_SUPABASE_URL",
-  SUPABASE_PUBLISHABLE_KEY: "COLE_AQUI_SUA_PUBLISHABLE_KEY"
+  SUPABASE_URL: "https://qsxxhuxgawoledfmsrdb.supabase.co",
+  SUPABASE_PUBLISHABLE_KEY: "sb_publishable_7hw569j6WhcihKRIaUDqjg_hfIw0m9j"
 };
